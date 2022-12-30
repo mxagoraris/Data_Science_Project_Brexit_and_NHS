@@ -6,3 +6,5 @@ Methods used: Mapping data with GDAL, clearing and data merging, inferential sta
 
 All data are needed to have a fully functioning script. As the geospatial data for the whole of the UK is more than 25mbs it should be downloaded from 
 this link: https://drive.google.com/drive/folders/1w1c2t5ctU5pLBWEoc5YFqTT2js1nS9Yv?usp=share_link (don't worry it is not a virus)
+
+All data should be put to the same folder or manipulations to my code should be done to account for any changes
